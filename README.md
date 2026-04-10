@@ -12,7 +12,7 @@
 It uses **SSA (Static Single Assignment)** and **RTA (Rapid Type Analysis)** to build a precise call graph, then reports every function, variable, constant, and type that is unreachable from any `main` entry point.
 
 </div>
----
+
 
 ## Features
 
