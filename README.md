@@ -4,9 +4,6 @@
 
 **A CLI tool that detects and optionally removes dead code across a Go project or monorepo.**
 
-![workerpool](workerpool.png)
-
-
 [![Go Version](https://img.shields.io/badge/Go-1.21%2B-blue)](https://golang.org/dl/)
 [![Go Reference](https://pkg.go.dev/badge/github.com/go-fynx/deadcode.svg)](https://pkg.go.dev/github.com/go-fynx/deadcode)
 [![Go Report Card](https://goreportcard.com/badge/github.com/go-fynx/deadcode)](https://goreportcard.com/report/github.com/go-fynx/deadcode)
