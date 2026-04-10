@@ -1,6 +1,6 @@
 module github.com/go-fynx/deadcode
 
-go 1.25.0
+go 1.23.0
 
 require golang.org/x/tools v0.44.0
 
