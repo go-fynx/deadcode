@@ -5,7 +5,7 @@ Thank you for your interest in contributing to `deadcode`.
 ## Getting Started
 
 1. Fork the repository and clone your fork.
-2. Install Go 1.23.0 or later.
+2. Install Go 1.23 or later.
 3. Run `go build ./...` to verify everything compiles.
 4. Run `go vet ./...` to check for common issues.
 
